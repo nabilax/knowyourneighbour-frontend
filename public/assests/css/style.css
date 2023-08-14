@@ -1,0 +1,16 @@
+@charset "UTF-8";
+body{
+	margin:0;
+	font-family: sans-serif;
+	background-color: #f8f4f4;
+    min-height: 100vh;
+}
+
+*{
+	box-sizing: border-box;
+}
+
+footer{
+    position: sticky;
+    top: 100%;
+}
